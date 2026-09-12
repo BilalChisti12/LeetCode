@@ -5,7 +5,7 @@
 <!-- LEETCODE_STATS_START -->
 ## LeetCode Progress
 
-Problems Solved: 192
+Problems Solved: 193
 Total Solutions: 193
 
 Java           185
