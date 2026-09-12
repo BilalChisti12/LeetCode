@@ -1,0 +1,191 @@
+name: Update LeetCode Stats
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Update README statistics
+        run: |
+          python <<'PY'
+          from pathlib import Path
+          from collections import Counter
+          import re
+
+          ROOT = Path(".")
+
+          # --------------------------------------------------
+          # Count problems
+          # --------------------------------------------------
+
+          ignored = {
+              ".git",
+              ".github"
+          }
+
+          problem_dirs = [
+              p for p in ROOT.iterdir()
+              if p.is_dir() and p.name not in ignored
+          ]
+
+          problems_solved = len(problem_dirs)
+
+          # --------------------------------------------------
+          # Count solutions by language
+          # --------------------------------------------------
+
+          extensions = Counter()
+
+          for problem_dir in problem_dirs:
+              for file in problem_dir.iterdir():
+
+                  if not file.is_file():
+                      continue
+
+                  extension = file.suffix.lower()
+
+                  if extension:
+                      extensions[extension] += 1
+
+          # --------------------------------------------------
+          # Extension → Language
+          # --------------------------------------------------
+
+          language_names = {
+              ".java": "Java",
+              ".cs": "C#",
+              ".js": "JavaScript",
+              ".ts": "TypeScript",
+              ".py": "Python",
+              ".cpp": "C++",
+              ".c": "C",
+              ".go": "Go",
+              ".rs": "Rust",
+              ".kt": "Kotlin",
+              ".swift": "Swift",
+              ".php": "PHP",
+              ".rb": "Ruby",
+              ".sql": "SQL",
+              ".sh": "Shell",
+              ".bash": "Shell",
+              ".html": "HTML",
+              ".css": "CSS"
+          }
+
+          languages = Counter()
+
+          for extension, count in extensions.items():
+              language = language_names.get(
+                  extension,
+                  extension.replace(".", "").upper()
+              )
+
+              languages[language] += count
+
+          total_solutions = sum(languages.values())
+
+          # --------------------------------------------------
+          # Generate statistics section
+          # --------------------------------------------------
+
+          stats = []
+
+          stats.append("## LeetCode Progress")
+          stats.append("")
+          stats.append(f"Problems Solved: {problems_solved}")
+          stats.append(f"Total Solutions: {total_solutions}")
+          stats.append("")
+
+          for language, count in sorted(
+              languages.items(),
+              key=lambda x: (-x[1], x[0])
+          ):
+              stats.append(f"{language:<15}{count}")
+
+          new_section = "\n".join(stats)
+
+          # --------------------------------------------------
+          # Update README
+          # --------------------------------------------------
+
+          readme = Path("README.md")
+
+          if not readme.exists():
+              raise SystemExit("README.md not found")
+
+          content = readme.read_text(encoding="utf-8")
+
+          start_marker = "<!-- LEETCODE_STATS_START -->"
+          end_marker = "<!-- LEETCODE_STATS_END -->"
+
+          if start_marker not in content or end_marker not in content:
+              raise SystemExit(
+                  "README markers not found. "
+                  "Add LEETCODE_STATS_START and LEETCODE_STATS_END."
+              )
+
+          pattern = (
+              re.escape(start_marker)
+              + r".*?"
+              + re.escape(end_marker)
+          )
+
+          replacement = (
+              start_marker
+              + "\n"
+              + new_section
+              + "\n"
+              + end_marker
+          )
+
+          updated = re.sub(
+              pattern,
+              replacement,
+              content,
+              flags=re.DOTALL
+          )
+
+          readme.write_text(updated, encoding="utf-8")
+
+          print(f"Problems solved: {problems_solved}")
+          print(f"Total solutions: {total_solutions}")
+          print("")
+          print("Solutions by language:")
+
+          for language, count in sorted(
+              languages.items(),
+              key=lambda x: (-x[1], x[0])
+          ):
+              print(f"  {language}: {count}")
+          PY
+
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "README is already up to date."
+          else
+            git commit -m "Update LeetCode statistics"
+            git push
+          fi
