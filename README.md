@@ -2,7 +2,7 @@
 
 
 
-<!-- LEETCODE\_STATS\_START -->
+<!-- LEETCODE_STATS_START -->
 
 
 
@@ -24,5 +24,4 @@ Shell            1
 
 
 
-<!-- LEETCODE\_STATS\_END -->
-
+<!-- LEETCODE_STATS_END -->
