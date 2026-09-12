@@ -1,60 +1,24 @@
-\# LeetCode Solutions
+\## LeetCode Progress
 
 
 
-A collection of my accepted LeetCode solutions, primarily written in Java, covering a wide range of Data Structures and Algorithms problems.
+<!-- LEETCODE\_STATS\_START -->
+
+Problems Solved: 192
+
+Total Solutions: 193
 
 
 
-\## Languages
+Java           185
 
+C#               1
 
+JavaScript       2
 
-\- Java
+SQL              4
 
-\- C#
+Shell            1
 
-\- JavaScript
-
-\- SQL
-
-\- Shell
-
-
-
-\## Repository Structure
-
-
-
-Each problem is organized into its own directory.
-
-
-
-```text
-
-LeetCode/
-
-├── 1-two-sum/
-
-│   ├── Solution.java
-
-│   └── Solution.cs
-
-│
-
-├── 2-add-two-numbers/
-
-│   └── Solution.java
-
-│
-
-├── 3-longest-substring-without-repeating-characters/
-
-│   └── Solution.java
-
-│
-
-├── ...
-
-└── README.md
+<!-- LEETCODE\_STATS\_END -->
 
