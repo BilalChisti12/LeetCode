@@ -22,4 +22,16 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/BilalChisti12/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/BilalChisti12/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/BilalChisti12/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/BilalChisti12/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
