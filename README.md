@@ -21,6 +21,7 @@ Shell          1
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/BilalChisti12/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/BilalChisti12/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 ## String
 | Problem Name | Difficulty |
