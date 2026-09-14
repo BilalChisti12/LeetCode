@@ -23,6 +23,7 @@ Shell          1
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/BilalChisti12/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/BilalChisti12/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0836-rectangle-overlap](https://github.com/BilalChisti12/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,8 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/BilalChisti12/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
