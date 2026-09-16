@@ -21,6 +21,7 @@ Shell          1
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/BilalChisti12/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/BilalChisti12/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/BilalChisti12/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0836-rectangle-overlap](https://github.com/BilalChisti12/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
@@ -69,4 +70,12 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/BilalChisti12/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/BilalChisti12/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/BilalChisti12/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
