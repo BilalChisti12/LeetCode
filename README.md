@@ -58,6 +58,7 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BilalChisti12/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BilalChisti12/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -83,4 +84,8 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BilalChisti12/LeetCode/tree/main/0001-two-sum/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BilalChisti12/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
