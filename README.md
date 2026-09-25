@@ -30,6 +30,7 @@ Shell          1
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/BilalChisti12/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/BilalChisti12/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/BilalChisti12/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
