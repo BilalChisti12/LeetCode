@@ -91,4 +91,8 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BilalChisti12/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0183-customers-who-never-order](https://github.com/BilalChisti12/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
