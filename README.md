@@ -81,10 +81,12 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/BilalChisti12/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/BilalChisti12/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/BilalChisti12/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/BilalChisti12/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
