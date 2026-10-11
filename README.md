@@ -67,6 +67,7 @@ Shell          1
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BilalChisti12/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0500-keyboard-row](https://github.com/BilalChisti12/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/BilalChisti12/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BilalChisti12/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -129,4 +130,8 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/BilalChisti12/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/BilalChisti12/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
