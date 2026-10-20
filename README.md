@@ -34,6 +34,7 @@ Shell          1
 | [0008-string-to-integer-atoi](https://github.com/BilalChisti12/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/BilalChisti12/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/BilalChisti12/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0344-reverse-string](https://github.com/BilalChisti12/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0500-keyboard-row](https://github.com/BilalChisti12/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Dynamic Programming
@@ -104,6 +105,7 @@ Shell          1
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/BilalChisti12/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BilalChisti12/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0344-reverse-string](https://github.com/BilalChisti12/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
