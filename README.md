@@ -72,6 +72,7 @@ Shell          1
 | [0016-3sum-closest](https://github.com/BilalChisti12/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BilalChisti12/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BilalChisti12/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0485-max-consecutive-ones](https://github.com/BilalChisti12/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0500-keyboard-row](https://github.com/BilalChisti12/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BilalChisti12/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
