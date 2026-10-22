@@ -74,6 +74,7 @@ Shell          1
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BilalChisti12/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BilalChisti12/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0189-rotate-array](https://github.com/BilalChisti12/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/BilalChisti12/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/BilalChisti12/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0500-keyboard-row](https://github.com/BilalChisti12/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BilalChisti12/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -116,6 +117,7 @@ Shell          1
 | [0016-3sum-closest](https://github.com/BilalChisti12/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BilalChisti12/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/BilalChisti12/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/BilalChisti12/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/BilalChisti12/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Database
 | Problem Name | Difficulty |
