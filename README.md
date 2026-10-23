@@ -74,6 +74,7 @@ Shell          1
 | [0016-3sum-closest](https://github.com/BilalChisti12/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BilalChisti12/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BilalChisti12/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0169-majority-element](https://github.com/BilalChisti12/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/BilalChisti12/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/BilalChisti12/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/BilalChisti12/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -111,6 +112,7 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BilalChisti12/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/BilalChisti12/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/BilalChisti12/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0268-missing-number](https://github.com/BilalChisti12/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -149,6 +151,7 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/BilalChisti12/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0169-majority-element](https://github.com/BilalChisti12/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/BilalChisti12/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/BilalChisti12/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -187,9 +190,18 @@ Shell          1
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/BilalChisti12/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/BilalChisti12/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/BilalChisti12/LeetCode/tree/main/0268-missing-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/BilalChisti12/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/BilalChisti12/LeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
