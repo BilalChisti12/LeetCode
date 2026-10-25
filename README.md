@@ -6,9 +6,9 @@
 ## LeetCode Progress
 
 Problems Solved: 230
-Total Solutions: 279
+Total Solutions: 280
 
-Java           234
+Java           235
 MD             36
 SQL            5
 JavaScript     2
