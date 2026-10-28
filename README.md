@@ -42,6 +42,7 @@ Shell          1
 | [0451-sort-characters-by-frequency](https://github.com/BilalChisti12/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/BilalChisti12/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0796-rotate-string](https://github.com/BilalChisti12/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/BilalChisti12/LeetCode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BilalChisti12/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BilalChisti12/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -133,6 +134,7 @@ Shell          1
 | [0283-move-zeroes](https://github.com/BilalChisti12/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/BilalChisti12/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1332-remove-palindromic-subsequences](https://github.com/BilalChisti12/LeetCode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
