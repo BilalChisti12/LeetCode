@@ -35,6 +35,7 @@ Shell          1
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BilalChisti12/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/BilalChisti12/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/BilalChisti12/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/BilalChisti12/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
@@ -51,6 +52,7 @@ Shell          1
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BilalChisti12/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/BilalChisti12/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0509-fibonacci-number](https://github.com/BilalChisti12/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
@@ -131,6 +133,7 @@ Shell          1
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BilalChisti12/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0016-3sum-closest](https://github.com/BilalChisti12/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BilalChisti12/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/BilalChisti12/LeetCode/tree/main/0031-next-permutation/) | Medium |
@@ -220,4 +223,8 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/BilalChisti12/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BilalChisti12/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
