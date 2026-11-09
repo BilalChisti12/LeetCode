@@ -80,6 +80,7 @@ Shell          1
 | [0001-two-sum](https://github.com/BilalChisti12/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0016-3sum-closest](https://github.com/BilalChisti12/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BilalChisti12/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/BilalChisti12/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/BilalChisti12/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BilalChisti12/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BilalChisti12/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -136,6 +137,7 @@ Shell          1
 | [0005-longest-palindromic-substring](https://github.com/BilalChisti12/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0016-3sum-closest](https://github.com/BilalChisti12/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BilalChisti12/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/BilalChisti12/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/BilalChisti12/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0189-rotate-array](https://github.com/BilalChisti12/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/BilalChisti12/LeetCode/tree/main/0283-move-zeroes/) | Easy |
