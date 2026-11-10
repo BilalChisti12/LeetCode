@@ -186,6 +186,7 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/BilalChisti12/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/BilalChisti12/LeetCode/tree/main/1693-daily-leads-and-partners/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
