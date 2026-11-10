@@ -58,6 +58,7 @@ Shell          1
 | [2390-removing-stars-from-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/BilalChisti12/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/BilalChisti12/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
+| [3110-score-of-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
