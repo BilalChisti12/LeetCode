@@ -30,6 +30,7 @@ Shell          1
 | [0836-rectangle-overlap](https://github.com/BilalChisti12/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BilalChisti12/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+| [2235-add-two-integers](https://github.com/BilalChisti12/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BilalChisti12/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/BilalChisti12/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## String
