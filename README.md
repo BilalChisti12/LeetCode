@@ -87,6 +87,7 @@ Shell          1
 | [2390-removing-stars-from-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2974-minimum-number-game](https://github.com/BilalChisti12/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/BilalChisti12/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ Shell          1
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BilalChisti12/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3668-restore-finishing-order](https://github.com/BilalChisti12/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/BilalChisti12/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/BilalChisti12/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
