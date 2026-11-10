@@ -55,6 +55,7 @@ Shell          1
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BilalChisti12/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/BilalChisti12/LeetCode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BilalChisti12/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/BilalChisti12/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/BilalChisti12/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/BilalChisti12/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
@@ -83,6 +84,7 @@ Shell          1
 | [0682-baseball-game](https://github.com/BilalChisti12/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/BilalChisti12/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/BilalChisti12/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/BilalChisti12/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2974-minimum-number-game](https://github.com/BilalChisti12/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
@@ -117,6 +119,7 @@ Shell          1
 | [1512-number-of-good-pairs](https://github.com/BilalChisti12/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/BilalChisti12/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/BilalChisti12/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/BilalChisti12/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BilalChisti12/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/BilalChisti12/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
