@@ -48,6 +48,7 @@ Shell          1
 | [0344-reverse-string](https://github.com/BilalChisti12/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/BilalChisti12/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/BilalChisti12/LeetCode/tree/main/0500-keyboard-row/) | Easy |
+| [0771-jewels-and-stones](https://github.com/BilalChisti12/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/BilalChisti12/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/BilalChisti12/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/BilalChisti12/LeetCode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
@@ -153,6 +154,7 @@ Shell          1
 | [0349-intersection-of-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/BilalChisti12/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/BilalChisti12/LeetCode/tree/main/0500-keyboard-row/) | Easy |
+| [0771-jewels-and-stones](https://github.com/BilalChisti12/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BilalChisti12/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/BilalChisti12/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Two Pointers
