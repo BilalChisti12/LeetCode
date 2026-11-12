@@ -61,6 +61,7 @@ Shell          1
 | [2942-find-words-containing-character](https://github.com/BilalChisti12/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/BilalChisti12/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/BilalChisti12/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/BilalChisti12/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Dynamic Programming
@@ -73,6 +74,7 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/BilalChisti12/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/BilalChisti12/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +268,7 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/BilalChisti12/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/BilalChisti12/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
