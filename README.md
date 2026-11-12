@@ -87,6 +87,7 @@ Shell          1
 | [1920-build-array-from-permutation](https://github.com/BilalChisti12/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/BilalChisti12/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BilalChisti12/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/BilalChisti12/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2221-find-triangular-sum-of-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2974-minimum-number-game](https://github.com/BilalChisti12/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
@@ -151,6 +152,7 @@ Shell          1
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/BilalChisti12/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/BilalChisti12/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/BilalChisti12/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/BilalChisti12/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
