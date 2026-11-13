@@ -200,6 +200,7 @@ Shell          1
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/BilalChisti12/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/BilalChisti12/LeetCode/tree/main/1693-daily-leads-and-partners/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/BilalChisti12/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
