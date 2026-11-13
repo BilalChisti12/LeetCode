@@ -38,6 +38,7 @@ Shell          1
 | [3516-find-closest-person](https://github.com/BilalChisti12/LeetCode/tree/main/3516-find-closest-person/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BilalChisti12/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/BilalChisti12/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/BilalChisti12/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
