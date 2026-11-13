@@ -133,6 +133,7 @@ Shell          1
 | [2221-find-triangular-sum-of-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/BilalChisti12/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/BilalChisti12/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BilalChisti12/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/BilalChisti12/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/BilalChisti12/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/BilalChisti12/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -199,6 +200,7 @@ Shell          1
 | [0349-intersection-of-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/BilalChisti12/LeetCode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BilalChisti12/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -232,6 +234,7 @@ Shell          1
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BilalChisti12/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BilalChisti12/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BilalChisti12/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/BilalChisti12/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/BilalChisti12/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Memoization
@@ -251,6 +254,7 @@ Shell          1
 | [0349-intersection-of-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BilalChisti12/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BilalChisti12/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
