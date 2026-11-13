@@ -63,6 +63,7 @@ Shell          1
 | [3110-score-of-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/BilalChisti12/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/BilalChisti12/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/BilalChisti12/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -180,6 +181,7 @@ Shell          1
 | [0771-jewels-and-stones](https://github.com/BilalChisti12/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BilalChisti12/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/BilalChisti12/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/BilalChisti12/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/BilalChisti12/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/BilalChisti12/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Two Pointers
@@ -273,6 +275,7 @@ Shell          1
 | [1512-number-of-good-pairs](https://github.com/BilalChisti12/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1603-design-parking-system](https://github.com/BilalChisti12/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/BilalChisti12/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/BilalChisti12/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
