@@ -101,6 +101,7 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/BilalChisti12/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/BilalChisti12/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1603-design-parking-system](https://github.com/BilalChisti12/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/BilalChisti12/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/BilalChisti12/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -136,6 +137,7 @@ Shell          1
 | [0682-baseball-game](https://github.com/BilalChisti12/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BilalChisti12/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/BilalChisti12/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1470-shuffle-the-array](https://github.com/BilalChisti12/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/BilalChisti12/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/BilalChisti12/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
