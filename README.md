@@ -156,6 +156,7 @@ Shell          1
 | [3668-restore-finishing-order](https://github.com/BilalChisti12/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/BilalChisti12/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/BilalChisti12/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/BilalChisti12/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/BilalChisti12/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -334,4 +335,12 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/BilalChisti12/LeetCode/tree/main/1603-design-parking-system/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/BilalChisti12/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/BilalChisti12/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
