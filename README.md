@@ -72,6 +72,7 @@ Shell          1
 | [3498-reverse-degree-of-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/BilalChisti12/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/BilalChisti12/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/BilalChisti12/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +214,7 @@ Shell          1
 | [1332-remove-palindromic-subsequences](https://github.com/BilalChisti12/LeetCode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BilalChisti12/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/BilalChisti12/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
