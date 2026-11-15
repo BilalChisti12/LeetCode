@@ -30,6 +30,7 @@ Shell          1
 | [0509-fibonacci-number](https://github.com/BilalChisti12/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/BilalChisti12/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/BilalChisti12/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/BilalChisti12/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BilalChisti12/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2235-add-two-integers](https://github.com/BilalChisti12/LeetCode/tree/main/2235-add-two-integers/) | Easy |
@@ -80,6 +81,7 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/BilalChisti12/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/BilalChisti12/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/BilalChisti12/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -130,6 +132,7 @@ Shell          1
 | [1470-shuffle-the-array](https://github.com/BilalChisti12/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/BilalChisti12/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/BilalChisti12/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/BilalChisti12/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/BilalChisti12/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/BilalChisti12/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BilalChisti12/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -151,6 +154,7 @@ Shell          1
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/BilalChisti12/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -250,6 +254,7 @@ Shell          1
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/BilalChisti12/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/BilalChisti12/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -291,6 +296,7 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/BilalChisti12/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/BilalChisti12/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/BilalChisti12/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
