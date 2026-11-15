@@ -38,6 +38,7 @@ Shell          1
 | [2469-convert-the-temperature](https://github.com/BilalChisti12/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/BilalChisti12/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BilalChisti12/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/BilalChisti12/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BilalChisti12/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/BilalChisti12/LeetCode/tree/main/3516-find-closest-person/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BilalChisti12/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -69,6 +70,7 @@ Shell          1
 | [3019-number-of-changing-keys](https://github.com/BilalChisti12/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3110-score-of-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/BilalChisti12/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3280-convert-date-to-binary](https://github.com/BilalChisti12/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/BilalChisti12/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/BilalChisti12/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
