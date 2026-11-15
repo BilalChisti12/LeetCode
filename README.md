@@ -32,6 +32,7 @@ Shell          1
 | [1512-number-of-good-pairs](https://github.com/BilalChisti12/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/BilalChisti12/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BilalChisti12/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/BilalChisti12/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2235-add-two-integers](https://github.com/BilalChisti12/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/BilalChisti12/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -256,6 +257,7 @@ Shell          1
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BilalChisti12/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BilalChisti12/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/BilalChisti12/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BilalChisti12/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/BilalChisti12/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/BilalChisti12/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -286,6 +288,7 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/BilalChisti12/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/BilalChisti12/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
