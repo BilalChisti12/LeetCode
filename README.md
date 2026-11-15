@@ -62,6 +62,7 @@ Shell          1
 | [0796-rotate-string](https://github.com/BilalChisti12/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/BilalChisti12/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/BilalChisti12/LeetCode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
+| [1528-shuffle-string](https://github.com/BilalChisti12/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BilalChisti12/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BilalChisti12/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/BilalChisti12/LeetCode/tree/main/1678-goal-parser-interpretation/) | Easy |
@@ -142,6 +143,7 @@ Shell          1
 | [1470-shuffle-the-array](https://github.com/BilalChisti12/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/BilalChisti12/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/BilalChisti12/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1528-shuffle-string](https://github.com/BilalChisti12/LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/BilalChisti12/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BilalChisti12/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/BilalChisti12/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
