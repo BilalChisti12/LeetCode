@@ -62,6 +62,7 @@ Shell          1
 | [1108-defanging-an-ip-address](https://github.com/BilalChisti12/LeetCode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/BilalChisti12/LeetCode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BilalChisti12/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BilalChisti12/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/BilalChisti12/LeetCode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/BilalChisti12/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BilalChisti12/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -137,6 +138,7 @@ Shell          1
 | [1470-shuffle-the-array](https://github.com/BilalChisti12/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/BilalChisti12/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/BilalChisti12/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BilalChisti12/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/BilalChisti12/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/BilalChisti12/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/BilalChisti12/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
