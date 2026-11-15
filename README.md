@@ -63,6 +63,7 @@ Shell          1
 | [1332-remove-palindromic-subsequences](https://github.com/BilalChisti12/LeetCode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BilalChisti12/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/BilalChisti12/LeetCode/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/BilalChisti12/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BilalChisti12/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BilalChisti12/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -136,6 +137,7 @@ Shell          1
 | [1470-shuffle-the-array](https://github.com/BilalChisti12/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/BilalChisti12/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/BilalChisti12/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/BilalChisti12/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/BilalChisti12/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/BilalChisti12/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/BilalChisti12/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -198,6 +200,7 @@ Shell          1
 | [0771-jewels-and-stones](https://github.com/BilalChisti12/LeetCode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BilalChisti12/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/BilalChisti12/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/BilalChisti12/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/BilalChisti12/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3668-restore-finishing-order](https://github.com/BilalChisti12/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/BilalChisti12/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -296,12 +299,14 @@ Shell          1
 | [0451-sort-characters-by-frequency](https://github.com/BilalChisti12/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/BilalChisti12/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1603-design-parking-system](https://github.com/BilalChisti12/LeetCode/tree/main/1603-design-parking-system/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/BilalChisti12/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/BilalChisti12/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/BilalChisti12/LeetCode/tree/main/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/BilalChisti12/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/BilalChisti12/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/BilalChisti12/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/BilalChisti12/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Divide and Conquer
