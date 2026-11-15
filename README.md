@@ -41,6 +41,7 @@ Shell          1
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BilalChisti12/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/BilalChisti12/LeetCode/tree/main/3516-find-closest-person/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BilalChisti12/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/BilalChisti12/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/BilalChisti12/LeetCode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/BilalChisti12/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## String
@@ -162,6 +163,7 @@ Shell          1
 | [2221-find-triangular-sum-of-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/BilalChisti12/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/BilalChisti12/LeetCode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/BilalChisti12/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
