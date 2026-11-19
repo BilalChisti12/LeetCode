@@ -251,6 +251,7 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BilalChisti12/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/BilalChisti12/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +264,7 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BilalChisti12/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/BilalChisti12/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
