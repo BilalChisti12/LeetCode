@@ -170,6 +170,7 @@ Shell          1
 | [2974-minimum-number-game](https://github.com/BilalChisti12/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BilalChisti12/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/BilalChisti12/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3285-find-indices-of-stable-mountains](https://github.com/BilalChisti12/LeetCode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/BilalChisti12/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BilalChisti12/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BilalChisti12/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
