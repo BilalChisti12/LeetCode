@@ -72,6 +72,7 @@ Shell          1
 | [1684-count-the-number-of-consistent-strings](https://github.com/BilalChisti12/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/BilalChisti12/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BilalChisti12/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/BilalChisti12/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BilalChisti12/LeetCode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/BilalChisti12/LeetCode/tree/main/2418-sort-the-people/) | Easy |
@@ -102,6 +103,7 @@ Shell          1
 | [0020-valid-parentheses](https://github.com/BilalChisti12/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0682-baseball-game](https://github.com/BilalChisti12/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BilalChisti12/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/BilalChisti12/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -241,6 +243,7 @@ Shell          1
 | [0349-intersection-of-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/BilalChisti12/LeetCode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/BilalChisti12/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/BilalChisti12/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/BilalChisti12/LeetCode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Database
