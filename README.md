@@ -70,6 +70,7 @@ Shell          1
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BilalChisti12/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/BilalChisti12/LeetCode/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/BilalChisti12/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/BilalChisti12/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/BilalChisti12/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BilalChisti12/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/BilalChisti12/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -156,6 +157,7 @@ Shell          1
 | [1534-count-good-triplets](https://github.com/BilalChisti12/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BilalChisti12/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/BilalChisti12/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/BilalChisti12/LeetCode/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/BilalChisti12/LeetCode/tree/main/1816-truncate-sentence/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/BilalChisti12/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/BilalChisti12/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
