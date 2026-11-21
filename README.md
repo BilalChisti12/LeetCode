@@ -150,6 +150,7 @@ Shell          1
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BilalChisti12/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/BilalChisti12/LeetCode/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/BilalChisti12/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/BilalChisti12/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/BilalChisti12/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -282,6 +283,7 @@ Shell          1
 | [0451-sort-characters-by-frequency](https://github.com/BilalChisti12/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BilalChisti12/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BilalChisti12/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BilalChisti12/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/BilalChisti12/LeetCode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2418-sort-the-people](https://github.com/BilalChisti12/LeetCode/tree/main/2418-sort-the-people/) | Easy |
@@ -322,6 +324,7 @@ Shell          1
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/BilalChisti12/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/BilalChisti12/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/BilalChisti12/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Bucket Sort
