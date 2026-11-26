@@ -5,11 +5,11 @@
 <!-- LEETCODE_STATS_START -->
 ## LeetCode Progress
 
-Problems Solved: 300
-Total Solutions: 435
+Problems Solved: 301
+Total Solutions: 437
 
-Java           316
-MD             106
+Java           317
+MD             107
 SQL            7
 JavaScript     3
 C#             1
