@@ -43,6 +43,7 @@ Shell          1
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/BilalChisti12/LeetCode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/BilalChisti12/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/BilalChisti12/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3360-stone-removal-game](https://github.com/BilalChisti12/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BilalChisti12/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/BilalChisti12/LeetCode/tree/main/3516-find-closest-person/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BilalChisti12/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -122,6 +123,7 @@ Shell          1
 | [2553-separate-the-digits-in-an-array](https://github.com/BilalChisti12/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/BilalChisti12/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/BilalChisti12/LeetCode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/BilalChisti12/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/BilalChisti12/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/BilalChisti12/LeetCode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/BilalChisti12/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
